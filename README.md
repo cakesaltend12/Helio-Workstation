@@ -198,4 +198,4 @@ This repository serves as the official landing page for Helio Workstation. The s
 **Get the most recent version of Helio Workstation today!**
 
 ---
-**Last updated:** 2026-11-06 21:49:42 UTC
+**Last updated:** 2026-11-07 01:20:56 UTC
